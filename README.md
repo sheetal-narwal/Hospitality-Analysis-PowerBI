@@ -23,7 +23,6 @@ Additional aspects included:
 1. Tool tips for all the KPIs, providing a quick view of their movement over time.
 2. Data definitions at the bottom of the reports, for easy understanding of the subject matter and data presented.
 
----
 
 ### Dashboard
 ![](https://github.com/PranavP4tel/Hospitality-Analysis-PowerBI/blob/main/Dashboard.png)
