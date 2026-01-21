@@ -27,8 +27,3 @@ Additional aspects included:
 
 ### Dashboard
 ![](https://github.com/PranavP4tel/Hospitality-Analysis-PowerBI/blob/main/Dashboard.png)
-
----
-
-### Reference:
-https://youtu.be/tT4V7zguCnc?si=Da3mK_BcSBpbYmNL
